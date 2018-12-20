@@ -6,8 +6,7 @@ some visualization software tutorials for creating the high quality and high res
 
 
 
-![hdd](hdd.png)
+![hdd](hdd_crop.png)
 
 
 
-![hdd1](hdd1.png)
