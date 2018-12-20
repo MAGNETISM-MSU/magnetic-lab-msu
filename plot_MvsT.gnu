@@ -8,14 +8,7 @@ set multiplot layout 2,1
 set ylabel "M/Ms"
 set key at 280, 0.8
 set ytics 0.2
-set palette defined ( 0 '#B2182B',\
-    	    	      1 '#D6604D',\
-		      2 '#F4A582',\
-		      3 '#FDDBC7',\
-		      4 '#D1E5F0',\
-		      5 '#92C5DE',\
-		      6 '#4393C3',\
-		      7 '#2166AC' )
+
 p "output_4" u 2:3 w lp lc rgb "#B2182B" pt 7 t "D = 4  nm",\
 "output_5" u 2:3 w lp lc rgb "#D6604D" pt 7 t "5  nm",\
 "output_6" u 2:3 w lp lc rgb "#F4A582" pt 7 t "6  nm",\
@@ -26,6 +19,7 @@ p "output_4" u 2:3 w lp lc rgb "#B2182B" pt 7 t "D = 4  nm",\
 set ylabel "{/Symbol c}"
 set key at 280, 0.08
 set ytics 0.02
+
 p [:][0:0.09]"output_4" u 2:7 w lp lc rgb "#B2182B" pt 7 t "D = 4  nm",\
 "output_5" u 2:7 w lp lc rgb "#D6604D" pt 7 t "5  nm",\
 "output_6" u 2:7 w lp lc rgb "#F4A582" pt 7 t "6  nm",\
