@@ -5,10 +5,6 @@ some visualization software tutorials for creating the high quality and high res
 
 
 
-![old](old.png)
-
-
-![new](new.png)
 
 ![hdd](hdd.png)
 
