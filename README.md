@@ -10,3 +10,8 @@ some visualization software tutorials for creating the high quality and high res
 
 
 
+
+
+
+![structure](structure_crop.png)
+
