@@ -11,6 +11,11 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 
 
+CREDITS
+gnuplot-colorbrewer is written and maintained by Anna Schneider <annarschneider@gmail.com>. ColorBrewer is a project of Cynthia Brewer, Mark Harrower, and The Pennsylvania State University.
+
+
+
 WHAT IS POV-RAY?
 
 POV-Ray is a visualization software package which is used for producing the high qualitative images with realistic reflection. The more sophisticated textures can be also produced with the specific commands. Moreover, it is able to use in many platforms such as Windows, Linux, Mac OS, and etc. The visualization is also very useful for the description of some complex phenomema in Physics. Therefore, we make this tutorial to learn and share knowledges about using PoV-Ray. The following images are some examples. 
