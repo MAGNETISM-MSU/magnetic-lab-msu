@@ -107,14 +107,24 @@ Getting started (for Linux)
                     texture {pigment{....}}   
                   }
                   
-             where x1,y1,z1 represent the reference corner of the box and
-                   x2,y2,z2 represent the opposite corner of the box.    
+             where x1,y1,z1 represent the position at the top of the cone which is usually set to be 0,
+                   x2,y2,z2 represent the position at the bottom of the cone,
+                   a is the radius at the top of cone, and  
+                   b is the radius at the bottom of cone.
+                   
+       2.5.4 Cylinder
        
-       and so on....
+             cylinder { <x1,y1,z1> 
+                        <x2,y2,z2>, a 
+                        texture {pigment{....}} 
+                      }
+             
+               where x1,y1,z1 and x2,y2,z2 represent the position at the top and bottom of the cylinder and
+                     a is the radius along the cylinder. 
+       
+       2.5.5 Hexagon, Prism and so on.... for more info go to http://www.povray.org/
    
    2.6 Put some texture effects on objects
-   
-   
    
 3. Render filename.pov to produce an image as one of each following command line
    3.1 povray filename.pov                    >> producing regular image with standard pixel (+a1.0)
