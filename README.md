@@ -51,8 +51,9 @@ The visualization is also very useful for the description of some complex phenom
 #### HOW TO START?
 1. Go to download links
 
-   For [Windows](http://www.povray.org/download/)
-   For [Linux](http://www.povray.org/download/linux.php)
+      For [Windows](http://www.povray.org/download/)
+   
+      For [Linux](http://www.povray.org/download/linux.php)
 
 2. Go to POV-Ray tutorials folder
 2. Get some instructions from the [POV-Ray](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/000_About%20POV-Ray.pdf) and the [tutorials](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/001_Instruction.txt) (more info: www.povray.org)
