@@ -6,4 +6,21 @@
     Location    : Computational magnetism group, Physics Department, Mahasarakham university, Thailand
 ==========================================================================================================*/
 
+Download links
+
+ For Windows: http://www.povray.org/download/
+ For Linux  : http://www.povray.org/download/linux.php
+ 
+Getting started (for Linux)
+
+1. Create text file named filename.pov in the repository file on your local
+2. Put some command lines included POV-Ray packages to generate an object
+3. Render filename.pov to produce an image as one of each following command line
+        3.1 povray filename.pov                    >> producing regular image with standard pixel (+a1.0)
+        3.2 povray filename.pov +a0.1              >> producing high resolution image with large pixel
+        3.3 povray filename.pov +H440 +W560        >> producing regular image with specified size of image
+        3.4 povray filename.pov +a0.1 +H440 +W560  >> producing high resolution image with large pixel and specified size of image
+ 
+
+
 
