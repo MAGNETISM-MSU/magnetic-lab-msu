@@ -49,10 +49,14 @@ This picture shows the atomic unit cell structures of materials which are simple
 The visualization is also very useful for the description of some complex phenomema in Physics. For example, the following image refers to the magnetization revesal process in the magnetic bilayer system at any time and external magnetic field called hysteresis loop. In order to explain the state of magnetization in each time step, we need some visualizations to ease that. 
 
 #### HOW TO START?
+1. Go to download links
 
-1. Go to POV-Ray tutorials folder
-2. Get some basic command lines for producing an image in the [tutorials](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/000_About%20POV-Ray.pdf) (more info: www.povray.org)
-3. Download xxx_filename.pov to place in the reposity folder on your browser
+   For [Windows](http://www.povray.org/download/)
+   For [Linux](http://www.povray.org/download/linux.php)
+
+2. Go to POV-Ray tutorials folder
+2. Get some instructions from the [POV-Ray](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/000_About%20POV-Ray.pdf) and the [tutorials](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/001_Instruction.txt) (more info: www.povray.org)
+3. Download xxx_filename.pov from [here](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/tree/master/POV-Ray%20Tutorials) to place in the reposity folder on your local
 4. Generate an image following the basic command lines from the tutorials
 5. Try on others :)
 
