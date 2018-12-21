@@ -5,19 +5,19 @@ Additionally, the fundamental tutorials of the POV-Ray visualization software pa
 
 
 
-WHAT IS GNUPLOT?
+##WHAT IS GNUPLOT?
 
 Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed. It was originally created to allow scientists and students to visualize mathematical functions and data. Gnuplot has been supported and under active development since 1986.
 
 
 
-CREDITS
+####CREDITS
 
 gnuplot-colorbrewer is written and maintained by Anna Schneider <annarschneider@gmail.com>. ColorBrewer is a project of Cynthia Brewer, Mark Harrower, and The Pennsylvania State University.
 
 
 
-WHAT IS POV-RAY?
+##WHAT IS POV-RAY?
 
 POV-Ray is a visualization software package which is used for producing the high qualitative images with realistic reflection. The more sophisticated textures can be also produced with the specific commands. Moreover, it is able to use in many platforms such as Windows, Linux, Mac OS, and etc. The visualization is also very useful for the description of some complex phenomema in Physics. Therefore, we make this tutorial to learn and share knowledges about using PoV-Ray. The following images are some examples. 
 
@@ -36,7 +36,7 @@ This picture shows the atomic unit cell structures of materials which are simple
 
 The visualization is also very useful for the description of some complex phenomema in Physics. For example, the following image refers to the magnetization revesal process in the magnetic bilayer system at any time and external magnetic field called hysteresis loop. In order to explain the state of magnetization in each time step, we need some visualizations to ease that.
 
-HOW TO START?
+#####HOW TO START?
 
 1. Go to POV-Ray tutorials folder
 2. Get some basic command lines for producing an image in the [tutorials](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/000_About%20POV-Ray.pdf) (more info: www.povray.org)
