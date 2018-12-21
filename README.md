@@ -13,7 +13,7 @@ WHAT IS GNUPLOT?
 
 WHAT IS POV-Ray?
 
-![hdd](magnetic-lab-msu/Image library/EB_crop.png)
+![hdd](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/hdd_crop.png)
 
 
         
@@ -22,7 +22,7 @@ WHAT IS POV-Ray?
 
 
 
-![structure](Image library/structure_crop.png)
+![structure](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/structure_crop.png)
 
 
 
