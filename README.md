@@ -35,4 +35,11 @@ The visualization is also very useful for the description of some complex phenom
 HOW TO START?
 
 1. Go to POV-Ray tutorials folder
-2. Get some basic commands for producing an image in [000_About-POV-Ray.pdf](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/000_About%20POV-Ray.pdf) 
+2. Get some basic command lines for producing an image in [the tutorials](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/000_About%20POV-Ray.pdf) (more info: www.povray.org)
+3. Download xxx_filename.pov to place in the reposity folder on your browser
+4. Try to generating an image with the basic command lines from the tutorials
+5. Try on others :)
+
+
+
+
