@@ -67,16 +67,16 @@ line (-2.5,1.5,3, -2.5,1.5,-3)
 line (-2.5,-1.5,3, -2.5,-1.5,-3)
 line (2.5,-1.5,3, 2.5,-1.5,-3)
 
-//a
+//atomic cells
 #macro a (cx3,cy3,cz3)
 sphere { <cx3,cy3,cz3>, 0.52  
          texture {pigment{ color Gold}} 
          finish {reflection 0.01 specular 0.5 phong 0.6 phong_size 100 diffuse 0.9 ambient color<0.1,0.1,0.1> brilliance 2} 
          rotate z*0 no_shadow 
         }
-
 #end
 
+//top
 a (0,0,3)
 a (0,3,3)
 a (0,-3,3)
@@ -85,10 +85,12 @@ a (-2.5,1.5,3)
 a (2.5,1.5,3)
 a (-2.5,-1.5,3)
 
+//middle
 a (2.5,0,0)
 a (-1.2,2.2,0)
 a (-1.2,-2.2,0)
 
+//bottom
 a (0,0,-3)
 a (0,3,-3)
 a (0,-3,-3)
