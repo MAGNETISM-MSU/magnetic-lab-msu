@@ -47,6 +47,17 @@ rotate z*97
 #end
 #include "atoms-00000000.inc"
 
+
+// //soft underlayer
+// #macro boxes (bx,by,bz, bx1,by1,bz1)
+// box { <bx,by,bz>
+// 	<bx1,by1,bz1>
+//     pigment { color rgbf <0.9,0.9,1.1,0.8> } finish {phong  2 metallic diffuse 1.3 ambient 0} rotate z*7 scale<1,1,1>     
+//     }
+// #end
+// 
+// boxes (1,28,8, -560,1200,700)
+
 //disk
 #macro boxes (bx,by,bz, bx1,by1,bz1)
 box { <bx,by,bz>
