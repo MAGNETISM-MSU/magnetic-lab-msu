@@ -132,9 +132,6 @@ Getting started (for Linux)
    3.3 povray filename.pov +H440 +W560        >> producing regular image with specified size of image
    3.4 povray filename.pov +a0.1 +H440 +W560  >> producing high resolution image with large pixel and specified size of image
 4. The .png file will be produced in the same repository file with the same filename
- 
 
-
-More for colors!
 
 
