@@ -9,11 +9,23 @@ Additionally, the fundamental tutorials of the POV-Ray visualization software pa
 
 Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed. It was originally created to allow scientists and students to visualize mathematical functions and data. Gnuplot has been supported and under active development since 1986.
 
+#### HOW TO START?
+
+
+
+
+
+
+
+
+
+
 
 
 #### CREDITS
 
-gnuplot-colorbrewer is written and maintained by Anna Schneider <annarschneider@gmail.com>. ColorBrewer is a project of Cynthia Brewer, Mark Harrower, and The Pennsylvania State University.
+The color patterns used here have been cited from [gnuplot-colorbrewer](https://github.com/aschn/gnuplot-colorbrewer)
+which is written and maintained by Anna Schneider <annarschneider@gmail.com>. 
 
 
 
