@@ -12,6 +12,7 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 
 CREDITS
+
 gnuplot-colorbrewer is written and maintained by Anna Schneider <annarschneider@gmail.com>. ColorBrewer is a project of Cynthia Brewer, Mark Harrower, and The Pennsylvania State University.
 
 
