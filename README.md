@@ -46,7 +46,7 @@ This picture shows the atomic unit cell structures of materials which are simple
 
 ![EB](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/EB_crop.png)
 
-The visualization is also very useful for the description of some complex phenomema in Physics. For example, the following image refers to the magnetization revesal process in the magnetic bilayer system at any time and external magnetic field called hysteresis loop. In order to explain the state of magnetization in each time step, we need some visualizations to ease that.
+The visualization is also very useful for the description of some complex phenomema in Physics. For example, the following image refers to the magnetization revesal process in the magnetic bilayer system at any time and external magnetic field called hysteresis loop. In order to explain the state of magnetization in each time step, we need some visualizations to ease that. 
 
 #### HOW TO START?
 
