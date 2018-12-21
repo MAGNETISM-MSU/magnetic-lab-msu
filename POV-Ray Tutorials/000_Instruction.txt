@@ -28,13 +28,14 @@ Getting started (for Linux)
        For example
        
              #include "colors.inc"  for calling the standard color appeared on software
-             #include "metals.inc"  for calling the metals texture applied to objects
+             #include "metals.inc"  for calling the metal texture applied to objects
             
    2.2 Define the position of camera
    
        location : a vector to define the position of the camera.
        look_at  : a vector to define the position that camera points at
-       angle    : a float expression specifies the (horizontal) viewing angle in degrees of the camera used
+       angle    : a float expression specifies the (horizontal) viewing angle in degrees of the camera used. 
+                  keyword 'angle' can be used for zooming in (small angle) and zooming out (large angle) as well. 
        
        For eaxample, we defines that the camera is placed in x axis for 20 units which is faraway from 
        where we look at the origin with viewing angle of 90.
@@ -43,7 +44,7 @@ Getting started (for Linux)
                         location <20,0,0>
                         look_at <0,0,0>
                         angle 90
-                   } 
+                    } 
        
        However, we can rotate the coordinate by using the command line 'sky<x,y,z>' in the camera{}. 
        For example, +z axis is set to point up.
@@ -79,12 +80,35 @@ Getting started (for Linux)
        There are many types of object in the real world and also in POV-Ray. However, each object has their own keyword 
        to use in POV-Ray. For example, 
        
-       2.5.1 sphere
+       2.5.1 Sphere
        
-             sphere { <0,0,1>, 1  texture {pigment{color rgb<1,0,0>}}}
+             sphere { <x,y,z>, r  texture {pigment{....}}}
+             
+             where  x is the distance in x axis,
+                    y is the distance in y axis,
+                    z is the distance in z axis, and
+                    r is the radius of sphere.
        
+       2.5.2 Box
+        
+             box { <x1,y1,z1>, 
+                   <x2,y2,z2> 
+                   texture {pigment{....}}
+                 }
+             
+             where x1,y1,z1 represent the reference corner of the box and
+                   x2,y2,z2 represent the opposite corner of the box.
+             The size of the box is defined by the position of the corner.
        
-       
+       2.5.3 Cone
+             
+             cone { <x1,y1,z1>, a 
+                    <x2,y2,z2>, b 
+                    texture {pigment{....}}   
+                  }
+                  
+             where x1,y1,z1 represent the reference corner of the box and
+                   x2,y2,z2 represent the opposite corner of the box.    
        
        and so on....
    
