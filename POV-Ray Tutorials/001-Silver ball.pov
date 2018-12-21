@@ -1,7 +1,8 @@
 //==================================================================================================
-       Silver ball
-       Created on: 21 December 2018
-       Author: Wassana Daeng-am
+       Designation : Silver ball
+       Created on  : 21 December 2018
+       Author      : Wassana Daeng-am
+       Location    : Computational magnetism group, Mahasarakham university, Thailand, 44150
 ====================================================================================================//
 
 
