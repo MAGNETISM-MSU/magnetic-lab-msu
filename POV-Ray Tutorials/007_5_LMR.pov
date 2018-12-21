@@ -111,9 +111,6 @@ line (0,600,5, 0,600,-88)
 line (0,900,5, 0,900,-88)
 line (0,1200,5, 0,1200,-88)
 
-
-
-
 //solenoid
 #macro lines (cx1,cy1,cz1 cx2,cy2,cz2)
 cylinder { <cx1,cy1,cz1> <cx2,cy2,cz2>, 20 
@@ -182,7 +179,6 @@ ball (-30,380,320)
 ball (-490,920,370)
 ball (-50,920,370)
 
-
 //magnetisation
 #macro arrow (cx,cy,cz,cx1,cy1,cz1 cx2,cy2,cz2)
 merge{
@@ -211,10 +207,9 @@ texture  { pigment{color rgb Silver}
 #end
 arrow(0,500,-45,  0,460,-45,  0,400,-45)
 
-
 //magnetic flux 1
-#declare Spline_1 =
-  spline {
+ #declare Spline_1 =
+ spline {
    natural_spline
    0.0, <-10,300,50>,//start point
    0.6, <-50,510,-10>,
@@ -234,11 +229,9 @@ arrow(0,500,-45,  0,460,-45,  0,400,-45)
  #declare Nr = Nr + 0.00015;  // next Nr
  #end // -------------------------------------- end of loop
  
-
-
 //magnetic flux 2
-#declare Spline_1 =
-  spline {
+ #declare Spline_1 =
+ spline {
    natural_spline
 
    0.0, <-10,280,50>,//start point
@@ -259,11 +252,9 @@ arrow(0,500,-45,  0,460,-45,  0,400,-45)
  #declare Nr = Nr + 0.00015;  // next Nr
  #end // -------------------------------------- end of loop
  
-
-
 //magnetic flux 3
-#declare Spline_1 =
-  spline {
+ #declare Spline_1 =
+ spline {
    natural_spline
 
    0.0, <-10,260,50>,//start point
@@ -283,10 +274,4 @@ arrow(0,500,-45,  0,460,-45,  0,400,-45)
 
  #declare Nr = Nr + 0.00015;  // next Nr
  #end // -------------------------------------- end of loop
- 
- 
- 
- 
- 
- 
- 
+
