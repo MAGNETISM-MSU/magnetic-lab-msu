@@ -61,8 +61,10 @@ boxes (1,28,8, -560,1200,-88)
 //write head
 #macro boxes (bx,by,bz, bx1,by1,bz1)
 box { <bx,by,bz>
-	<bx1,by1,bz1>
-    texture {pigment{ color rgbf<0.1,0.1,0.1, 0>}} finish{reflection 0.1 specular 20 phong 0.6 phong_size 200 diffuse 0.9 ambient color<0.1,0.1,0.1> brilliance 5 } rotate z*7     // Equivalent to "rotate <0,20,0>"--
+      <bx1,by1,bz1>
+       texture {pigment{ color rgbf<0.1,0.1,0.1, 0>}} 
+       finish{reflection 0.1 specular 20 phong 0.6 phong_size 200 diffuse 0.9 ambient color<0.1,0.1,0.1> brilliance 5 } 
+       rotate z*7     // Equivalent to "rotate <0,20,0>"--
     }
 #end
 boxes (-30,180,30, -500,330,500)
@@ -86,7 +88,10 @@ boxes (-50,900,30, -490,940,400)
 
 //bits
 #macro line (cx1,cy1,cz1 cx2,cy2,cz2)
-cylinder { <cx1,cy1,cz1> <cx2,cy2,cz2>, 2.5 texture {pigment{ color White}} finish {phong  1 metallic diffuse 1.3 ambient 0} rotate z*7 }
+cylinder { <cx1,cy1,cz1> <cx2,cy2,cz2>, 2.5 
+           texture {pigment{ color White}} finish {phong  1 metallic diffuse 1.3 ambient 0} 
+	   rotate z*7 
+	 }
 #end
 
 
