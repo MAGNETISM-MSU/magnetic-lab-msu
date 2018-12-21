@@ -15,46 +15,78 @@ Download links
 Getting started (for Linux)
 
 1. Create text file named filename.pov in the repository file on your local
+
 2. Put some command lines to generate an object
+
    Remember that POV-Ray is based on left-handed coordinating system
-            +y axis is pointing up
-            +x axis is pointing to the right
-            +z axis is pointing into the screen
-   However, we can rotate the coordinate by using the command line 'sky'. 
-   For example, 
+             +y axis is pointing up
+             +x axis is pointing to the right
+             +z axis is pointing into the scene
        
-   2.1 Included POV-Ray packages (or not is fine, it depends on your designs)
+   2.1 Include POV-Ray packages (or not is fine, it depends on your designs)
+       
        For example
-            #include "colors.inc"  for calling the standard color appeared on software
-            #include "metals.inc"  for calling the metals texture applied to objects
+       
+             #include "colors.inc"  for calling the standard color appeared on software
+             #include "metals.inc"  for calling the metals texture applied to objects
             
    2.2 Define the position of camera
    
-            camera {
+       location : a vector to define the position of the camera.
+       look_at  : a vector to define the position that camera points at
+       angle    : a float expression specifies the (horizontal) viewing angle in degrees of the camera used
+       
+       For eaxample, we defines that the camera is placed in x axis for 20 units which is faraway from 
+       where we look at the origin with viewing angle of 90.
+   
+             camera {
                         location <20,0,0>
                         look_at <0,0,0>
                         angle 90
-                   }
-                   
-       However, we can rotate the coordinate by using the command line 'sky' in the camera. 
+                   } 
+       
+       However, we can rotate the coordinate by using the command line 'sky<x,y,z>' in the camera{}. 
        For example, +z axis is set to point up.
        
-            camera {
+             camera {
                         sky <0,0,1>
-                        location <15,10,17>
-                        look_at <1,13,5>
+                        location <20,0,0>
+                        look_at <0,0,0>
                         angle 90
-                   }
+                    }
                    
    2.3 Add light source into the scene
+       
+       POV-Ray is 3D image generator. In order to make the object more realistic, the light must be applied into the scene.
+       For example,   
    
+             light_source {
+                             <30,30,30>
+                             color rgb<1,1,1>
+                          }
+                         
+       POV-Ray color is based on RGB color system. Therefore, we can define the color by mixing RGB color based vector              components. In this case, the color of light_source is white (rgb<1,1,1>).
    
    2.4 Set background color
    
-   
+       For the beginning, the background should be set in the scene in order to see where is the objects.
+       For example, white background is set.
+       
+             background { color rgb<1,1,1>}
    
    2.5 Insert objects
-   
+       
+       There are many types of object in the real world and also in POV-Ray. However, each object has their own keyword 
+       to use in POV-Ray. For example, 
+       
+       2.5.1 sphere
+       
+             sphere { <0,0,1>, 1  texture {pigment{color rgb<1,0,0>}}}
+       
+       
+       
+       
+       and so on....
    
    2.6 Put some texture effects on objects
    
@@ -68,5 +100,7 @@ Getting started (for Linux)
 4. The .png file will be produced in the same repository file with the same filename
  
 
+
+More for colors!
 
 
