@@ -13,9 +13,11 @@ WHAT IS GNUPLOT?
 
 WHAT IS POV-Ray?
 
-![hdd](Image library/hdd_crop.png)
+![hdd](magnetic-lab-msu/Image library/EB_crop.png)
 
 
+        
+      
 
 
 
