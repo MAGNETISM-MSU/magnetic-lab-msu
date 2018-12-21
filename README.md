@@ -13,18 +13,18 @@ WHAT IS GNUPLOT?
 
 WHAT IS POV-Ray?
 
-![hdd](hdd_crop.png)
+![hdd](Image library/hdd_crop.png)
 
 
 
 
 
 
-![structure](structure_crop.png)
+![structure](Image library/structure_crop.png)
 
 
 
 
 The visualization is also very useful for the description of some complex phenomema in Physics. The following image refers to the....
 
-![EB](EB_crop.png)
+![EB](Image library/EB_crop.png)
