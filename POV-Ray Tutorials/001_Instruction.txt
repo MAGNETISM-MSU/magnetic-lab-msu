@@ -10,16 +10,62 @@ Download links
 
  For Windows: http://www.povray.org/download/
  For Linux  : http://www.povray.org/download/linux.php
- 
+
+
 Getting started (for Linux)
 
 1. Create text file named filename.pov in the repository file on your local
-2. Put some command lines included POV-Ray packages to generate an object
+2. Put some command lines to generate an object
+   Remember that POV-Ray is based on left-handed coordinating system
+            +y axis is pointing up
+            +x axis is pointing to the right
+            +z axis is pointing into the screen
+   However, we can rotate the coordinate by using the command line 'sky'. 
+   For example, 
+       
+   2.1 Included POV-Ray packages (or not is fine, it depends on your designs)
+       For example
+            #include "colors.inc"  for calling the standard color appeared on software
+            #include "metals.inc"  for calling the metals texture applied to objects
+            
+   2.2 Define the position of camera
+   
+            camera {
+                        location <20,0,0>
+                        look_at <0,0,0>
+                        angle 90
+                   }
+                   
+       However, we can rotate the coordinate by using the command line 'sky' in the camera. 
+       For example, +z axis is set to point up.
+       
+            camera {
+                        sky <0,0,1>
+                        location <15,10,17>
+                        look_at <1,13,5>
+                        angle 90
+                   }
+                   
+   2.3 Add light source into the scene
+   
+   
+   2.4 Set background color
+   
+   
+   
+   2.5 Insert objects
+   
+   
+   2.6 Put some texture effects on objects
+   
+   
+   
 3. Render filename.pov to produce an image as one of each following command line
-        3.1 povray filename.pov                    >> producing regular image with standard pixel (+a1.0)
-        3.2 povray filename.pov +a0.1              >> producing high resolution image with large pixel
-        3.3 povray filename.pov +H440 +W560        >> producing regular image with specified size of image
-        3.4 povray filename.pov +a0.1 +H440 +W560  >> producing high resolution image with large pixel and specified size of image
+   3.1 povray filename.pov                    >> producing regular image with standard pixel (+a1.0)
+   3.2 povray filename.pov +a0.1              >> producing high resolution image with large pixel
+   3.3 povray filename.pov +H440 +W560        >> producing regular image with specified size of image
+   3.4 povray filename.pov +a0.1 +H440 +W560  >> producing high resolution image with large pixel and specified size of image
+4. The .png file will be produced in the same repository file with the same filename
  
 
 
