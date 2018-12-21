@@ -7,7 +7,7 @@ Additionally, the fundamental tutorials of the POV-Ray visualization software pa
 
 WHAT IS GNUPLOT?
 
-
+Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed. It was originally created to allow scientists and students to visualize mathematical functions and data. Gnuplot has been supported and under active development since 1986.
 
 
 
