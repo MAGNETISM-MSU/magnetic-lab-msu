@@ -29,4 +29,4 @@ WHAT IS POV-Ray?
 
 The visualization is also very useful for the description of some complex phenomema in Physics. The following image refers to the....
 
-![EB](Image library/EB_crop.png)
+![EB](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/EB_crop.png)
