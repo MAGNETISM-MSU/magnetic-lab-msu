@@ -21,7 +21,6 @@ plane { <0,0,1>, 0
         texture {pigment{ color rgb<0.9,0.9,0.9>}}   
       }
 
-
 cone  { <0,0,3>, 0
         <0,0,1>, 0.5 
         texture {pigment{ color rgb<1,0,0>}}   
