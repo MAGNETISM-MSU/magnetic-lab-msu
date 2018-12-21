@@ -11,7 +11,7 @@ WHAT IS GNUPLOT?
 
 
 
-WHAT IS POV-Ray?
+WHAT IS POV-RAY?
 
 ![hdd](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/hdd_crop.png)
 
@@ -30,3 +30,9 @@ WHAT IS POV-Ray?
 The visualization is also very useful for the description of some complex phenomema in Physics. The following image refers to the....
 
 ![EB](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/EB_crop.png)
+
+
+HOW TO START?
+
+1. Go to POV-Ray tutorials folder
+2. Get some basic commands for producing an image in ![000_About-POV-Ray.pdf](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/000_About%20POV-Ray.pdf) 
