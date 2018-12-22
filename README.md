@@ -1,6 +1,6 @@
 # magnetic-lab-msu
 This branch of git has been made up to share our graphical templates for using on gnuplot (more info: www.gnuplot.info/).
-Additionally, the fundamental tutorials of the POV-Ray visualization software package (more info: www.povray.org) is also presented.
+Additionally, the basic tutorials of the visualization software package called POV-Ray (more info: www.povray.org) is also presented.
 
 
 
@@ -40,13 +40,13 @@ The above picture represents the evolution of magnetic recording technologies in
 
 ![structure](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/structure_crop.png)
 
-This picture shows the atomic unit cell structures of materials which are simple cubic (SC), body-centered cubic (BCC), face-centered cubic (FCC), and hexagonal close packed (HCP) from left to right.
+This picture shows the atomic unit cell structures of materials which are simple cubic (SC), body-centered cubic (BCC), face-centered cubic (FCC), and hexagonal close packed (HCP) structures from left to right.
 
 
 
 ![EB](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/EB_crop.png)
 
-The visualization is also very useful for the description of some complex phenomema in Physics. For example, the following image refers to the magnetization revesal process in the magnetic bilayer system at any time and external magnetic field called hysteresis loop. In order to explain the state of magnetization in step by step, we need some visualizations to ease that. Therefore, the realistic images must be produced.
+The visualization is also very useful for the description of some complex phenomema in Physics. For example, the above image refers to the magnetization revesal process in the magnetic bilayer system at any time and external magnetic field called hysteresis loop. In order to explain the state of magnetization step by step, we need some visualizations to ease that. In the publications, sometimes, we also need the attractive graphs and realistic images which are used to describe our stuffs to gain attentions. 
 
 #### HOW TO START?
 1. Go to download links for [Windows](http://www.povray.org/download/) and [Linux](http://www.povray.org/download/linux.php)
@@ -55,7 +55,7 @@ The visualization is also very useful for the description of some complex phenom
 4. Generate an image following the basic command lines from the tutorials
 5. Try on others :)
 
-##### HINT: The tutorials here has been made up for using on Linux only !
+##### HINT: This tutorial has been made up for using on Linux only !
 
 
 
