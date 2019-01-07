@@ -14,7 +14,7 @@ Download links
 
 Getting started (for Linux)
 
-1. Create text file named filename.pov in the repository file on your local
+1. Create text file named filename.pov in the repository file on your local directory
 
 2. Put some command lines to generate an object
 
@@ -37,8 +37,8 @@ Getting started (for Linux)
        angle    : a float expression specifies the (horizontal) viewing angle in degrees of the camera used. 
                   keyword 'angle' can be used for zooming in (small angle) and zooming out (large angle) as well. 
        
-       For eaxample, we defines that the camera is placed in x axis for 20 units which is faraway from 
-       where we look at the origin with viewing angle of 90.
+       For eaxample, we define that the camera is placed in x axis for 20 units away from 
+       where we look at the origin with viewing angle of 90 by:
    
              camera {
                         location <20,0,0>
@@ -47,7 +47,7 @@ Getting started (for Linux)
                     } 
        
        However, we can rotate the coordinate by using the command line 'sky<x,y,z>' in the camera{}. 
-       For example, +z axis is set to point up.
+       For example, +z axis is set to point up with:
        
              camera {
                         sky <0,0,1>
@@ -133,7 +133,8 @@ Getting started (for Linux)
    3.3 povray filename.pov +H440 +W560        >> producing regular image with specified size of image
    3.4 povray filename.pov +a0.1 +H440 +W560  >> producing high resolution image with large pixel and specified size of image
    
-4. The .png file will be produced in the same repository file with the same filename
+4. The .png file will be produced in the same repository file with the same filename by default. To generate an output file with a different filename, for instance new_filename.png, the following command can be used: 
+   4.1 povray filename.pov +Onew_filename.png  >> producing regular image with standard pixel and output file called "new_filename.png"
 
 
 
