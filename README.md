@@ -27,14 +27,14 @@ The following colormaps represent the specific RGB color code of the color schem
 
 In order to compare data sets clearly, the [dash types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/002_dt_dashtype.gnu) should be also used for the plot. In Gnuplot 5.2 the command 
 "dashtype" or "dt" is used to make the different lines between data sets in stead of the command "linetype" or "lt".
-Dash types are defined by the numbers from 0 to 5 and the specified symbols as follows. 
+Dash types are defined by the sequence of number from 0 to 5 and the specified symbols as follows. 
 
 ![dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/dash_types.png)
 
 
 #### Point types
 
-[point types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/003_pt_pointtype.gnu)
+The [point types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/003_pt_pointtype.gnu) is also useful for the plot in terms of categorically-grouped data. For example,
 
 ![point_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/point_types.png)
 
@@ -43,7 +43,7 @@ Dash types are defined by the numbers from 0 to 5 and the specified symbols as f
 #### HOW TO START?
 
 1. Download [Gnuplot 5.2](http://www.gnuplot.info/)
-2. Get some instructions from the basic [tutorial](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/Instructions) (more info: [Gnuplot 5.2 Manual](http://www.gnuplot.info/docs_5.2/Gnuplot_5.2.pdf) and [Demos](http://gnuplot.sourceforge.net/demo/))
+2. Get some instructions from the basic [tutorial](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/000_Instruction.txt) (more info: [Gnuplot 5.2 Manual](http://www.gnuplot.info/docs_5.2/Gnuplot_5.2.pdf) and [Demos](http://gnuplot.sourceforge.net/demo/))
 3. Download xxx_filename.gnu from [here](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/tree/master/Gnuplot) to place in the reposity folder on your local
 4. Generate graph following the basic command lines from the tutorials
 5. Try on others :)
