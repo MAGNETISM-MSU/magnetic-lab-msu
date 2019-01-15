@@ -41,6 +41,7 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 Some of these colormaps used here have been cited from [gnuplot-colorbrewer](https://github.com/aschn/gnuplot-colorbrewer)
 which is written and maintained by Anna Schneider <annarschneider@gmail.com>. 
 
+##### HINT: This tutorial has been made up for using on Gnuplot 5.2 only !
 
 
 ### WHAT IS POV-RAY?
