@@ -32,7 +32,7 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 #### Dash types
 
-[dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/002_dt_dashtype.gnu)
+[dash types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/002_dt_dashtype.gnu)
 
 
 ![dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/dash_types.png)
@@ -40,7 +40,7 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 #### Point types
 
-[point_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/003_pt_pointtype.gnu)
+[point types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/003_pt_pointtype.gnu)
 
 ![point_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/point_types.png)
 
