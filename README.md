@@ -16,13 +16,31 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 #### Colormaps
 
+[BrBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_BrBu.gnu)
+
+[RdBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu)
+
+[Mix color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Mix.gnu)
+
+[Rainbow](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu)
+
+
+
+
 ![colormap](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/colormap.png)
+
 
 #### Dash types
 
+[dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/002_dt_dashtype.gnu)
+
+
 ![dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/dash_types.png)
 
+
 #### Point types
+
+[point_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/003_pt_pointtype.gnu)
 
 ![point_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/point_types.png)
 
