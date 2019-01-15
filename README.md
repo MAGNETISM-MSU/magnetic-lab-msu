@@ -9,11 +9,16 @@ Additionally, the basic tutorials of the visualization software package called P
 
 Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed. It was originally created to allow scientists and students to visualize mathematical functions and data. Gnuplot has been supported and under active development since 1986.
 
+
+
+![bubr](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/BuBr.png)
+
+
+
 #### HOW TO START?
 
 
 
-![BuBr] (https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/BuBr.png)
 
 
 
