@@ -23,7 +23,7 @@ xxx
 
 1. Go to download [link](http://www.gnuplot.info/)
 2. Get some instructions from the [here](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/Instructions) (more info: www.gnuplot.info/)
-3. Download xxx_filename.pov from [here](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/tree/master/Gnuplot) to place in the reposity folder on your local
+3. Download xxx_filename.gnu from [here](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/tree/master/Gnuplot) to place in the reposity folder on your local
 4. Generate graph following the basic command lines from the tutorials
 5. Try on others :)
 
