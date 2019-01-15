@@ -1,3 +1,11 @@
+
+/*========================================================================================================
+    Designation : Colormap (Brown & Blue)
+    Created on  : 15 January 2019
+    Author      : Wassana Daeng-am
+    Location    : Computational magnetism group, Physics Department, Mahasarakham university, Thailand
+==========================================================================================================*/
+
 reset
 set term pngcairo size 1620,1080 enhanced font "Helvetica,43"
 set key font ",43"
