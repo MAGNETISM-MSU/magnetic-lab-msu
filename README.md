@@ -26,7 +26,8 @@ The following colormaps represent the specific RGB color code of the color schem
 #### Dash types
 
 In order to compare data sets clearly, the [dash types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/002_dt_dashtype.gnu) should be also used for the plot. In Gnuplot 5.2 the command 
-"dashtype" or "dt" is used to make the different lines between data sets in stead of the command "linetype".
+"dashtype" or "dt" is used to make the different lines between data sets in stead of the command "linetype" or "lt".
+Dash types are defined by the numbers from 0 to 5 and the specified symbols as follows. 
 
 ![dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/dash_types.png)
 
