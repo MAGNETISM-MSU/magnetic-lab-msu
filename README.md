@@ -17,7 +17,7 @@ xxx
 
 
 
-![color_code](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/color_code.png)
+![colormap](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/colormap.png)
 
 #### HOW TO START?
 
