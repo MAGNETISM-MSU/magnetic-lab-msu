@@ -13,7 +13,11 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 ![color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/color_pattern.png)
 
+xxx
 
+
+
+![color_code](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/color_code.png)
 
 #### HOW TO START?
 
