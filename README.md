@@ -32,7 +32,7 @@ Dash types are defined by the sequence of number from 0 to 5 and the specified s
 
 #### Point types
 
-[Point types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/003_pt_pointtype.gnu) are also useful for the plot in terms of categorically-grouped data. For example,
+[Point types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/003_pt_pointtype.gnu) are also useful for the plot in term of categorically-grouped data. For example,
 
 ![point_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/point_types.png)
 
