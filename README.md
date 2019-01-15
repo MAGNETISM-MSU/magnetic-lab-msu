@@ -18,15 +18,15 @@ Qualitative color schemes are good for comparing data sets without emphasizing a
 
 #### Colormaps
 
-Here is the colormap for the above color schemes which are [BrBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_BrBu.gnu), [RdBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu), [Mix color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Mix.gnu), and [Rainbow](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Rainbow.gnu), respectively.
+The following colormaps represent the specific RGB color code of the color scheme as mentioned above which are [BrBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_BrBu.gnu), [RdBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu), [Mix color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Mix.gnu), and [Rainbow](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Rainbow.gnu), respectively.
 
 ![colormap](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/colormap.png)
 
 
 #### Dash types
 
-[dash types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/002_dt_dashtype.gnu)
-
+In order to compare data sets clearly, the [dash types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/002_dt_dashtype.gnu) should be also used for the plot. In Gnuplot 5.2 the command 
+"dashtype" or "dt" is used to make the different lines between data sets in stead of the command "linetype".
 
 ![dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/dash_types.png)
 
