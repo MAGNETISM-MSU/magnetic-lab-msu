@@ -7,17 +7,30 @@ Additionally, the basic tutorials of the visualization software package called P
 
 ### WHAT IS GNUPLOT?
 
-Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed. It was originally created to allow scientists and students to visualize mathematical functions and data. Gnuplot has been supported and under active development since 1986.
+Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS Windows, OSX, VMS, and many other platforms. The source code is copyrighted but freely distributed. It was originally created to allow scientists and students to visualize mathematical functions and data for both 2D and 3D plots. Moreover, it supports many different types of output. Gnuplot has been supported and under active development since 1986. The current version is Gnuplot 5.2. In this tutorial we try to present the simple plots based on the template we oftenly use. 
 
 
+##### Colormap
 
 ![color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/color_pattern.png)
 
 xxx
 
-
-
 ![colormap](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/colormap.png)
+
+
+
+##### Line type
+
+
+
+##### Point type
+
+
+
+
+
+
 
 #### HOW TO START?
 
