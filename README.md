@@ -20,13 +20,13 @@ xxx
 
 
 
-##### Line type
+##### Dash type
 
-
+![dash_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/dash_types.png)
 
 ##### Point type
 
-
+![point_type](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/point_types.png)
 
 
 
