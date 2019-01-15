@@ -48,7 +48,7 @@ The [point types](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/
 
 #### CREDITS
 
-Some of these colormaps used here have been cited from [gnuplot-colorbrewer](https://github.com/aschn/gnuplot-colorbrewer)
+Some of the colormaps used here have been cited from [gnuplot-colorbrewer](https://github.com/aschn/gnuplot-colorbrewer)
 which is written and maintained by Anna Schneider <annarschneider@gmail.com>. 
 
 ##### HINT: This tutorial has been made up for using on Gnuplot 5.2 only !
