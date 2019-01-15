@@ -68,12 +68,12 @@ POV-Ray is a visualization software package which is used for producing the high
 
 ![hdd](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/hdd_crop.png)
 
-The above picture represents the evolution of magnetic recording technologies in hard diske drive (HDD) from the beginning until now which are longitudinal magnetic recording (LMR), perpendicular magnetic recording (PMR), heat assisted magnetic recording (HAMR), and microwave assisted magnetic recording (MAMR), respectively.
+The above picture represents the evolution of magnetic recording technologies in hard diske drive (HDD) from the beginning until now which are longitudinal magnetic recording ([LMR](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_5_LMR.pov)), perpendicular magnetic recording ([PMR](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_6_PMR.pov)), heat assisted magnetic recording ([HAMR](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_7_HAMR.pov)), and microwave assisted magnetic recording ([MAMR](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_8_MAMR.pov)), respectively.
 
 
 ![structure](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/structure_crop.png)
 
-This picture shows the atomic unit cell structures of materials which are simple cubic (SC), body-centered cubic (BCC), face-centered cubic (FCC), and hexagonal close packed (HCP) structures from left to right.
+This picture shows the atomic unit cell structures of materials which are simple cubic ([SC](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_1_SC.pov)), body-centered cubic ([BCC](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_2_BCC.pov)), face-centered cubic ([FCC](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_3_FCC.pov)), and hexagonal close packed ([HCP](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/POV-Ray%20Tutorials/007_4_HCP.pov)) structures from left to right.
 
 
 
