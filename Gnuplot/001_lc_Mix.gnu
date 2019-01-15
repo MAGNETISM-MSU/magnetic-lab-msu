@@ -1,6 +1,6 @@
 
 /*========================================================================================================
-    Designation : Colormap (Red & Blue)
+    Designation : Colormap (Mix color)
     Created on  : 15 January 2019
     Author      : Wassana Daeng-am
     Location    : Computational magnetism group, Physics Department, Mahasarakham university, Thailand
