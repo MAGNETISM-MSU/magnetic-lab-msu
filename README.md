@@ -12,20 +12,13 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 #### Color schemes
 
+Qualitative color schemes are good for comparing data sets without emphasizing any inherent ordering: attributes of categorically-grouped data, plots of data points and fits to the data, etc. The following color scheme is what we frequently use in our group. 
+
 ![color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/color_pattern.png)
 
 #### Colormaps
 
-[BrBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_BrBu.gnu)
-
-[RdBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu)
-
-[Mix color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Mix.gnu)
-
-[Rainbow](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Rainbow.gnu)
-
-
-
+Here is the colormap for the above color schemes which are [BrBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_BrBu.gnu), [RdBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu), [Mix color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Mix.gnu), and [Rainbow](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Rainbow.gnu), respectively.
 
 ![colormap](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/colormap.png)
 
@@ -48,7 +41,7 @@ Gnuplot is a portable command-line driven graphing utility for Linux, OS/2, MS W
 
 #### HOW TO START?
 
-1. Download [Gnuplot](http://www.gnuplot.info/)
+1. Download [Gnuplot 5.2](http://www.gnuplot.info/)
 2. Get some instructions from the basic [tutorial](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/Instructions) (more info: [Gnuplot 5.2 Manual](http://www.gnuplot.info/docs_5.2/Gnuplot_5.2.pdf) and [Demos](http://gnuplot.sourceforge.net/demo/))
 3. Download xxx_filename.gnu from [here](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/tree/master/Gnuplot) to place in the reposity folder on your local
 4. Generate graph following the basic command lines from the tutorials
