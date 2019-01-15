@@ -27,16 +27,9 @@ xxx
 4. Generate graph following the basic command lines from the tutorials
 5. Try on others :)
 
-
-
-
-
-
-
-
 #### CREDITS
 
-Some of colormaps used here have been cited from [gnuplot-colorbrewer](https://github.com/aschn/gnuplot-colorbrewer)
+Some of these colormaps used here have been cited from [gnuplot-colorbrewer](https://github.com/aschn/gnuplot-colorbrewer)
 which is written and maintained by Anna Schneider <annarschneider@gmail.com>. 
 
 
