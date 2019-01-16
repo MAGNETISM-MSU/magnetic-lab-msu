@@ -16,7 +16,7 @@ Qualitative color schemes are good for comparing data sets without emphasizing a
 
 ![color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/color_pattern.png)
 
-The following colormaps represent the specific RGB color code of the color schemes as mentioned above which are [BrBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_BrBu.gnu), [RdBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu), [Mix color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Mix.gnu), and [Rainbow](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Rainbow.gnu), respectively.
+The following colormaps are represented with the specific RGB color code of the color schemes as mentioned above which are [BrBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_BrBu.gnu), [RdBu](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_RdBu.gnu), [Mix color](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Mix.gnu), and [Rainbow](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Gnuplot/001_lc_Rainbow.gnu), respectively.
 
 ![colormap](https://github.com/MAGNETISM-MSU/magnetic-lab-msu/blob/master/Image%20library/colormap.png)
 
