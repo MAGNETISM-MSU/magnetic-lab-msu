@@ -1,0 +1,32 @@
+/*========================================================================================================
+    Designation : Palette (Brown & Blue)
+    Created on  : 16 January 2019
+    Author      : Andrea Meo
+    Location    : Computational magnetism group, Physics Department, Mahasarakham university, Thailand
+==========================================================================================================*/
+
+# Palette for plotting using Brouwn & Blue colour scheme
+
+#Set styles for lines and points in 2D plots
+set style line 1 pt 7  ps 2.0 lt 1 lc rgb "navy"    lw 2
+set style line 2 pt 9  ps 2.0 lt 1 lc rgb "#084594" lw 2
+set style line 3 pt 5  ps 2.0 lt 1 lc rgb "#2166AC" lw 2
+set style line 4 pt 11 ps 2.0 lt 1 lc rgb "#4393C3" lw 2
+set style line 5 pt 13 ps 2.0 lt 1 lc rgb "#92C5DE" lw 2
+set style line 6 pt 15 ps 2.0 lt 1 lc rgb "#DFC27D" lw 2
+set style line 7 pt 9  ps 2.0 lt 1 lc rgb "#BF812D" lw 2
+set style line 8 pt 11 ps 2.0 lt 1 lc rgb "#8C510A" lw 2
+set style line 9 pt 7  ps 2.0 lt 1 lc rgb "#6a2f04" lw 2
+
+#set palette for 3D/map plots
+set palette defined ( 1 'navy',\
+                      2 '#084594',\
+                      3 '#2166AC',\
+                      4 '#4393C3',\
+                      5 '#92C5DE',\
+                      6 '#DFC27D',\
+                      7 '#BF812D',\
+                      8 '#8C510A',\
+                      9 '#6a2f04')
+
+unset colorbox
