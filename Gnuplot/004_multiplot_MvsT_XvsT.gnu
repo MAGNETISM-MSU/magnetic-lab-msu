@@ -36,7 +36,7 @@ set tmargin at screen 0.925; set bmargin at screen 0.55
 set lmargin at screen 0.125; set rmargin at screen 0.94
 
 # Define axis labels, ranges and formats
-set ylabel 'Reduced magnetisation' font "Helvetica,18"
+set ylabel 'Reduced magnetisation'
 set xrange [-50:1250]
 set yrange [-0.1:1.1]
 set format x "%.0f"
@@ -56,7 +56,7 @@ set tmargin at screen 0.50; set bmargin at screen 0.125
 set lmargin at screen 0.125; set rmargin at screen 0.94
 # Define axis labels, ranges and formats
 set xlabel 'Temperature (K)'
-set ylabel 'Susceptibility' font "Helvetica,18"
+set ylabel 'Susceptibility'
 set xrange [-50:1250]
 set yrange [-0.025:0.35]
 set format x "%.0f"
